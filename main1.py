@@ -4,6 +4,7 @@ def my_f():
 def main():
     print(2)
     my_f()
+    print(1)
 
 if __name__ == '__main__':
     main()
